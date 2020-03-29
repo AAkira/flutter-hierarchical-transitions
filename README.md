@@ -2,11 +2,11 @@
 
 This example is inspired by the [hierarchical transition](https://material.io/design/navigation/navigation-transitions.html#hierarchical-transitions) google material design.
 
-- master branch
+- [master branch](https://github.com/AAkira/flutter-hierarchical-transitions/tree/master)
 
 ![demo](/art/demo.gif)
 
-- simple branch
+- [simple branch](https://github.com/AAkira/flutter-hierarchical-transitions/tree/simple)
 
 ![demo](/art/demo-simple.gif)
 
